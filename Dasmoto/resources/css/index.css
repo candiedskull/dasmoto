@@ -1,0 +1,40 @@
+h1,h2,h3,p{
+  font-family:Helvetica;
+}
+
+.banner h1{
+background-image: url('../images/pattern.jpeg');
+  font-size: 100px;'
+  font-weight: bold;
+  color:khaki;
+  text-align: center;
+}
+
+#brushes{
+  color:white;
+  font-size: 32px;
+  font-weight: bold;
+  background-color:mediumspringgreen;
+}
+
+.cost
+{
+  color: blue;
+  font-weight:bold;
+}
+
+#frames
+{
+  color:white;
+  font-size:32px;
+  font-weight: bold;
+  background-color: lightcoral;
+}
+
+#paint
+{
+  color:white;
+  font-size:32px;
+  font-weight: bold;
+  background-color: skyblue;
+}
